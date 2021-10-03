@@ -1,1 +1,1 @@
-# okko-test
+# Тестовое задание на product analyst в okko
